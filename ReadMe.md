@@ -2,7 +2,7 @@
 The technologies and tools I've used in this app are part of the following tech stack:
 
 1. **FastAPI** - Web framework for building APIs in Python.
-2. **Python** - Programming language used for the backend logic.
+2. **Python** - version == 3.11.9 Programming language used for the backend logic.
 3. **pandas** - Library for data manipulation and analysis.
 4. **openpyxl** - Library for reading and writing Excel files.
 5. **Jinja2** (implicitly used by FastAPI) - Template engine for rendering HTML (if you're using HTML responses).
