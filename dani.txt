@@ -1,3 +1,13 @@
 git init
 git remote add origin https://github.com/danishammar/csv2sql.git
 git add .
+git commit -m "Initial commit"
+git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/danishammar/csv2sql.git'
+git branch
+git push -u origin master
+date:13/nov/2024 new version of git installed 2.47
+
+How to make changes in repo
+git add dani.txt
