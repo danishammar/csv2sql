@@ -19,3 +19,6 @@ git branch -m master main
 git push origin main
 git push --set-upstream origin main
 
+git config --global core.autocrlf true
+git status
+
