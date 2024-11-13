@@ -11,3 +11,11 @@ date:13/nov/2024 new version of git installed 2.47
 
 How to make changes in repo
 git add dani.txt
+git commit -m "Updated dani.txt with new content"
+git push origin master
+
+how to rename branch from "master" to "main"
+git branch -m master main
+git push origin main
+git push --set-upstream origin main
+
