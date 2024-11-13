@@ -1,0 +1,35 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE/editor settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Test or coverage files
+*.coveragerc
+coverage.xml
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.whl
